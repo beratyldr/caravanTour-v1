@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CaravanApplication<caravan>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.caravantour.caravan.CaravanApplication",
+            "projectName": "caravan",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

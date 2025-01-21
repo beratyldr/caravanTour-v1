@@ -17,11 +17,12 @@ Backend Setup
 	1.	Configure MySQL
 	•	Create a new database for the project (e.g., projectName).
 	•	Update the database credentials in the application.properties or application.yml file:
-
+```
 spring.datasource.url=jdbc:mysql://localhost:3306/projectName
 spring.datasource.username=YourUserName
 spring.datasource.password=YourPassword
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+```
 
 
 	2.	Start the Backend

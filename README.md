@@ -1,6 +1,4 @@
-Below is a refined and developer-friendly version for your GitHub README file:
-
-Caravantour Project Setup
+##Caravantour Project Setup
 
 This document provides step-by-step instructions to set up and run the Caravantour project locally. Please follow the guidelines below to configure the backend, frontend, and Elasticsearch components.
 

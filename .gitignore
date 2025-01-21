@@ -4,6 +4,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+caravanBE/src/main/resources/application.properties
+
 ### STS ###
 .apt_generated
 .classpath
@@ -28,7 +30,6 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
-/caravanBE/main/src/resources/application.properties
 ### VS Code ###
 .vscode/
 
